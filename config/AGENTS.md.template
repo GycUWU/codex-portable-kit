@@ -1,0 +1,72 @@
+# AGENTS
+
+## Self-Improvement
+
+Use the global memory directory at `{{HOME_WIN}}\.codex\memories`.
+
+Before starting any task:
+0. Use fastctx
+1. Read `{{HOME_WIN}}\.codex\memories\PROFILE.md`
+2. Read `{{HOME_WIN}}\.codex\memories\ACTIVE.md`
+3. Apply them as global memory before analyzing the user request
+
+Log only when the outcome is non-obvious, reusable, or likely to recur.
+
+Evaluate whether to log a memory entry when any of the following happens:
+1. A command, tool call, or operation fails unexpectedly
+2. The user corrects a mistake, assumption, or outdated statement
+3. A requested capability does not exist yet
+4. An external API, integration, or tool behaves differently than expected
+5. A non-obvious workaround, debugging insight, or better recurring approach is discovered
+
+Write entries by type:
+- `{{HOME_WIN}}\.codex\memories\LEARNINGS.md` for learnings, corrections, knowledge gaps, and best practices
+- `{{HOME_WIN}}\.codex\memories\ERRORS.md` for unexpected errors and debugging notes
+- `{{HOME_WIN}}\.codex\memories\FEATURE_REQUESTS.md` for missing capabilities the user wants
+
+Promotion rules:
+1. If a pattern recurs or is broadly useful across tasks, promote it into `{{HOME_WIN}}\.codex\memories\ACTIVE.md`
+2. Keep `ACTIVE.md` concise and current
+3. Stable top-level rules may be proposed for promotion into this `AGENTS.md`; write them only after the user explicitly authorizes the edit
+
+Behavior expectations:
+- Default to Chinese unless the user explicitly asks for another language
+- Follow stable user response-format preferences from `PROFILE.md` and `ACTIVE.md`
+- Log silently when confidence is high
+- Do not log trivial typos, one-off noise, or low-value observations
+- Do not edit this `AGENTS.md` automatically unless the user explicitly asks
+
+## Four Principles
+
+Apply these principles to every task, especially before changing code:
+
+1. **Think Before Coding**
+   - Resolve ambiguity from available context and evidence first. Ask only when missing information would materially change the goal, scope, acceptance criteria, or risk and cannot be reasonably inferred. State assumptions and continue through reversible choices; pause only work that depends on the answer.
+   - Surface tradeoffs, push back when a simpler approach is sufficient, and name any blocking confusion before proceeding
+2. **Simplicity First**
+   - Implement the minimum requested behavior. Avoid speculative features, single-use abstractions, unrequested configurability, and defensive handling of impossible scenarios.
+   - If the solution is materially more complex than necessary, simplify it before delivery; when 200 lines can be 50, rewrite it. Use the senior-engineer test: if it looks overcomplicated, reduce it.
+3. **Surgical Changes**
+   - Touch only what the request requires; preserve adjacent behavior, style, comments, and formatting.
+   - Do not refactor working adjacent code or delete pre-existing dead code. Remove only imports, variables, or functions orphaned by the current change, and ensure every changed line traces to the request.
+4. **Goal-Driven Execution**
+   - Define concrete success criteria and a brief step → verification plan before multi-step work.
+   - Turn bug fixes and validation work into reproducible checks or tests, then loop until those checks pass: validation starts with invalid-input tests, bug fixes with a reproducer, and refactors with before/after test runs.
+
+<!-- fastctx:begin -->
+## Local file inspection
+
+The FastCtx MCP tools are the first-class way to read, search, and find
+local files: `mcp__fastctx__read`, `mcp__fastctx__grep`,
+`mcp__fastctx__glob` — prefer them over `cat`/`Get-Content`,
+`rg`/`findstr`/`Select-String`, and `dir`/`ls -R`. Pass absolute paths. The
+last line of every result says `Complete` or `Partial` — continue only with
+the exact parameters a `Partial` note provides.
+
+### Batch replacement
+
+Use `mcp__fastctx__replace` for mechanical find-and-replace across files.
+It preserves each file's encoding and line endings, supports dry-run previews,
+and rejects concurrent changes before writing. Use apply_patch for generated
+content, semantic rewrites, or small local edits.
+<!-- fastctx:end -->

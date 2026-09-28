@@ -1,0 +1,6 @@
+interface:
+  display_name: "Industrial UI Designer"
+  short_description: "Industrial control, robotics, HMI, diagnostics and engineering UI"
+  default_prompt: "Design or review this industrial interface for fast state recognition, safe operation, dense readable data, and stable engineering workflows."
+policy:
+  allow_implicit_invocation: true

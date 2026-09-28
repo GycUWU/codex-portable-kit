@@ -1,0 +1,13 @@
+# Industrial UI Review
+- Is current system state obvious within 2 seconds?
+- Are warning and fault distinguishable without color alone?
+- Are units attached to engineering values?
+- Are target/configured and actual/feedback values unmistakable?
+- Are dangerous actions separated from routine actions?
+- Are controls stable across modes?
+- Are tables readable at realistic density?
+- Are alarms actionable and timestamped when relevant?
+- Is data-loss/disconnect/stale state designed?
+- Are coordinate frames, axes, state names, and units technically correct?
+- Does the interface remain usable at target panel resolution?
+- Is decorative motion minimized?

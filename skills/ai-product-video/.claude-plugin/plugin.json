@@ -1,0 +1,20 @@
+{
+  "name": "ai-product-video",
+  "version": "1.0.0",
+  "description": "Craft cinematic product videos with Remotion using shot recipes, reusable components, SFX, and dlazy CLI for music, voiceover, captions and B-roll.",
+  "author": {
+    "name": "dlazy",
+    "url": "https://dlazy.com"
+  },
+  "homepage": "https://github.com/dlazyai/ai-product-video",
+  "repository": "https://github.com/dlazyai/ai-product-video",
+  "license": "Apache-2.0",
+  "keywords": [
+    "video",
+    "remotion",
+    "motion-design",
+    "product-video",
+    "agent-skill"
+  ],
+  "skills": "./"
+}

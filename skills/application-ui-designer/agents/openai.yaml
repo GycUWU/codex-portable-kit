@@ -1,0 +1,6 @@
+interface:
+  display_name: "Application UI Designer"
+  short_description: "Modern consumer, productivity, SaaS, utility and creative application UI"
+  default_prompt: "Design or review this application UI with a clear product concept, strong hierarchy, polished interaction, and a non-generic visual system."
+policy:
+  allow_implicit_invocation: true

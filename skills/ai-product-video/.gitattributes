@@ -1,0 +1,10 @@
+# 仓库内统一 LF：shell 脚本与 .mjs 会在 Linux/macOS 上直接执行
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp3 binary
+*.mp4 binary
+*.ico binary

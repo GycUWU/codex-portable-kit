@@ -1,0 +1,1152 @@
+{
+  "format": 1,
+  "captured": "2026-09-28",
+  "skills": [
+    {
+      "directory": "ai-product-video",
+      "name": "ai-product-video",
+      "sources": [
+        "~/.codex/skills/ai-product-video",
+        "~/.agents/skills/ai-product-video"
+      ],
+      "files": 575,
+      "bytes": 16184110,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "application-ui-designer",
+      "name": "application-ui-designer",
+      "sources": [
+        "~/.codex/skills/application-ui-designer",
+        "~/.agents/skills/application-ui-designer"
+      ],
+      "files": 4,
+      "bytes": 5481,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ask-matt",
+      "name": "ask-matt",
+      "sources": [
+        "~/.codex/skills/ask-matt"
+      ],
+      "files": 3,
+      "bytes": 15803,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "code-review",
+      "name": "code-review",
+      "sources": [
+        "~/.codex/skills/code-review"
+      ],
+      "files": 2,
+      "bytes": 6856,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "codebase-design",
+      "name": "codebase-design",
+      "sources": [
+        "~/.codex/skills/codebase-design"
+      ],
+      "files": 4,
+      "bytes": 11765,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "codex-with-chatgpt",
+      "name": "codex-with-chatgpt",
+      "sources": [
+        "~/.codex/skills/codex-with-chatgpt",
+        "~/.agents/skills/codex-with-chatgpt"
+      ],
+      "files": 2,
+      "bytes": 71792,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "context-mode",
+      "name": "context-mode",
+      "sources": [
+        "~/.codex/skills/context-mode",
+        "~/.agents/skills/context-mode"
+      ],
+      "files": 5,
+      "bytes": 52745,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ctx-doctor",
+      "name": "ctx-doctor",
+      "sources": [
+        "~/.codex/skills/ctx-doctor",
+        "~/.agents/skills/ctx-doctor"
+      ],
+      "files": 1,
+      "bytes": 1050,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ctx-index",
+      "name": "ctx-index",
+      "sources": [
+        "~/.codex/skills/ctx-index",
+        "~/.agents/skills/ctx-index"
+      ],
+      "files": 1,
+      "bytes": 1310,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ctx-insight",
+      "name": "ctx-insight",
+      "sources": [
+        "~/.codex/skills/ctx-insight",
+        "~/.agents/skills/ctx-insight"
+      ],
+      "files": 1,
+      "bytes": 918,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ctx-purge",
+      "name": "ctx-purge",
+      "sources": [
+        "~/.codex/skills/ctx-purge",
+        "~/.agents/skills/ctx-purge"
+      ],
+      "files": 1,
+      "bytes": 2698,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ctx-search",
+      "name": "ctx-search",
+      "sources": [
+        "~/.codex/skills/ctx-search",
+        "~/.agents/skills/ctx-search"
+      ],
+      "files": 1,
+      "bytes": 999,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ctx-stats",
+      "name": "ctx-stats",
+      "sources": [
+        "~/.codex/skills/ctx-stats",
+        "~/.agents/skills/ctx-stats"
+      ],
+      "files": 1,
+      "bytes": 1165,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ctx-upgrade",
+      "name": "ctx-upgrade",
+      "sources": [
+        "~/.codex/skills/ctx-upgrade",
+        "~/.agents/skills/ctx-upgrade"
+      ],
+      "files": 1,
+      "bytes": 1163,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "diagnosing-bugs",
+      "name": "diagnosing-bugs",
+      "sources": [
+        "~/.codex/skills/diagnosing-bugs"
+      ],
+      "files": 3,
+      "bytes": 10255,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "domain-modeling",
+      "name": "domain-modeling",
+      "sources": [
+        "~/.codex/skills/domain-modeling"
+      ],
+      "files": 4,
+      "bytes": 8455,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "eli5",
+      "name": "eli5",
+      "sources": [
+        "~/.codex/skills/eli5",
+        "~/.agents/skills/eli5"
+      ],
+      "files": 1,
+      "bytes": 321,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "git-guardrails-claude-code",
+      "name": "git-guardrails-claude-code",
+      "sources": [
+        "~/.codex/skills/git-guardrails-claude-code"
+      ],
+      "files": 3,
+      "bytes": 2932,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "grill-me",
+      "name": "grill-me",
+      "sources": [
+        "~/.codex/skills/grill-me"
+      ],
+      "files": 2,
+      "bytes": 294,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "grill-with-docs",
+      "name": "grill-with-docs",
+      "sources": [
+        "~/.codex/skills/grill-with-docs"
+      ],
+      "files": 2,
+      "bytes": 392,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "grilling",
+      "name": "grilling",
+      "sources": [
+        "~/.codex/skills/grilling"
+      ],
+      "files": 2,
+      "bytes": 2100,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "gsap-core",
+      "name": "gsap-core",
+      "sources": [
+        "~/.codex/skills/gsap-core",
+        "~/.agents/skills/gsap-core"
+      ],
+      "files": 1,
+      "bytes": 15046,
+      "license_frontmatter": "MIT\r"
+    },
+    {
+      "directory": "gsap-frameworks",
+      "name": "gsap-frameworks",
+      "sources": [
+        "~/.codex/skills/gsap-frameworks",
+        "~/.agents/skills/gsap-frameworks"
+      ],
+      "files": 1,
+      "bytes": 10887,
+      "license_frontmatter": "MIT\r"
+    },
+    {
+      "directory": "gsap-performance",
+      "name": "gsap-performance",
+      "sources": [
+        "~/.codex/skills/gsap-performance",
+        "~/.agents/skills/gsap-performance"
+      ],
+      "files": 1,
+      "bytes": 4218,
+      "license_frontmatter": "MIT\r"
+    },
+    {
+      "directory": "gsap-plugins",
+      "name": "gsap-plugins",
+      "sources": [
+        "~/.codex/skills/gsap-plugins",
+        "~/.agents/skills/gsap-plugins"
+      ],
+      "files": 1,
+      "bytes": 22012,
+      "license_frontmatter": "MIT\r"
+    },
+    {
+      "directory": "gsap-react",
+      "name": "gsap-react",
+      "sources": [
+        "~/.codex/skills/gsap-react",
+        "~/.agents/skills/gsap-react"
+      ],
+      "files": 1,
+      "bytes": 6700,
+      "license_frontmatter": "MIT\r"
+    },
+    {
+      "directory": "gsap-scrolltrigger",
+      "name": "gsap-scrolltrigger",
+      "sources": [
+        "~/.codex/skills/gsap-scrolltrigger",
+        "~/.agents/skills/gsap-scrolltrigger"
+      ],
+      "files": 1,
+      "bytes": 18686,
+      "license_frontmatter": "MIT\r"
+    },
+    {
+      "directory": "gsap-timeline",
+      "name": "gsap-timeline",
+      "sources": [
+        "~/.codex/skills/gsap-timeline",
+        "~/.agents/skills/gsap-timeline"
+      ],
+      "files": 1,
+      "bytes": 4501,
+      "license_frontmatter": "MIT\r"
+    },
+    {
+      "directory": "gsap-utils",
+      "name": "gsap-utils",
+      "sources": [
+        "~/.codex/skills/gsap-utils",
+        "~/.agents/skills/gsap-utils"
+      ],
+      "files": 1,
+      "bytes": 12377,
+      "license_frontmatter": "MIT\r"
+    },
+    {
+      "directory": "guizang-ppt-skill",
+      "name": "guizang-ppt-skill",
+      "sources": [
+        "~/.codex/skills/guizang-ppt-skill",
+        "~/.agents/skills/guizang-ppt-skill"
+      ],
+      "files": 41,
+      "bytes": 6095132,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "gyc-code-comments",
+      "name": "gyc-code-comments",
+      "sources": [
+        "~/.codex/skills/gyc-code-comments",
+        "~/.agents/skills/gyc-code-comments"
+      ],
+      "files": 8,
+      "bytes": 26091,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "handoff",
+      "name": "handoff",
+      "sources": [
+        "~/.codex/skills/handoff"
+      ],
+      "files": 2,
+      "bytes": 1035,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "hatch-pet",
+      "name": "hatch-pet",
+      "sources": [
+        "~/.codex/skills/hatch-pet",
+        "~/.agents/skills/hatch-pet"
+      ],
+      "files": 29,
+      "bytes": 305059,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "humanizer",
+      "name": "humanizer",
+      "sources": [
+        "~/.agents/skills/humanizer"
+      ],
+      "files": 6,
+      "bytes": 52842,
+      "license_frontmatter": "MIT\r"
+    },
+    {
+      "directory": "humanizer-zh",
+      "name": "humanizer-zh",
+      "sources": [
+        "~/.agents/skills/humanizer-zh",
+        "project/.agents/skills/humanizer-zh"
+      ],
+      "files": 4,
+      "bytes": 29531,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "i-have-adhd",
+      "name": "i-have-adhd",
+      "sources": [
+        "~/.agents/skills/i-have-adhd"
+      ],
+      "files": 3,
+      "bytes": 9775,
+      "license_frontmatter": "MIT\r"
+    },
+    {
+      "directory": "implement",
+      "name": "implement",
+      "sources": [
+        "~/.codex/skills/implement"
+      ],
+      "files": 2,
+      "bytes": 572,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "improve-codebase-architecture",
+      "name": "improve-codebase-architecture",
+      "sources": [
+        "~/.codex/skills/improve-codebase-architecture"
+      ],
+      "files": 3,
+      "bytes": 12800,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "industrial-ui-designer",
+      "name": "industrial-ui-designer",
+      "sources": [
+        "~/.codex/skills/industrial-ui-designer",
+        "~/.agents/skills/industrial-ui-designer"
+      ],
+      "files": 4,
+      "bytes": 5198,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "migrate-to-shoehorn",
+      "name": "migrate-to-shoehorn",
+      "sources": [
+        "~/.codex/skills/migrate-to-shoehorn"
+      ],
+      "files": 2,
+      "bytes": 2905,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "motion-web",
+      "name": "motion-web",
+      "sources": [
+        "~/.codex/skills/motion-web",
+        "~/.agents/skills/motion-web"
+      ],
+      "files": 84,
+      "bytes": 34327608,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "normal-writer",
+      "name": "normal-writer",
+      "sources": [
+        "~/.codex/skills/normal-writer",
+        "~/.agents/skills/normal-writer"
+      ],
+      "files": 2,
+      "bytes": 3494,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "normify-gen",
+      "name": "normify-gen",
+      "sources": [
+        "~/.codex/skills/normify-gen"
+      ],
+      "files": 1,
+      "bytes": 26680,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "onetake",
+      "name": "onetake",
+      "sources": [
+        "~/.agents/skills/onetake"
+      ],
+      "files": 92,
+      "bytes": 74513463,
+      "license_frontmatter": "PolyForm Noncommercial 1.0.0 (free for noncommercial use; see LICENSE)"
+    },
+    {
+      "directory": "ponytail",
+      "name": "ponytail",
+      "sources": [
+        "~/.agents/skills/ponytail"
+      ],
+      "files": 1,
+      "bytes": 6871,
+      "license_frontmatter": "MIT\r"
+    },
+    {
+      "directory": "ponytail-audit",
+      "name": "ponytail-audit",
+      "sources": [
+        "~/.agents/skills/ponytail-audit"
+      ],
+      "files": 1,
+      "bytes": 1693,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ponytail-debt",
+      "name": "ponytail-debt",
+      "sources": [
+        "~/.agents/skills/ponytail-debt"
+      ],
+      "files": 1,
+      "bytes": 1747,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ponytail-gain",
+      "name": "ponytail-gain",
+      "sources": [
+        "~/.agents/skills/ponytail-gain"
+      ],
+      "files": 1,
+      "bytes": 2023,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ponytail-help",
+      "name": "ponytail-help",
+      "sources": [
+        "~/.agents/skills/ponytail-help"
+      ],
+      "files": 1,
+      "bytes": 2867,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "ponytail-review",
+      "name": "ponytail-review",
+      "sources": [
+        "~/.agents/skills/ponytail-review"
+      ],
+      "files": 1,
+      "bytes": 2440,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "prototype",
+      "name": "prototype",
+      "sources": [
+        "~/.codex/skills/prototype"
+      ],
+      "files": 4,
+      "bytes": 15980,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "research",
+      "name": "research",
+      "sources": [
+        "~/.codex/skills/research"
+      ],
+      "files": 2,
+      "bytes": 888,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "resolving-merge-conflicts",
+      "name": "resolving-merge-conflicts",
+      "sources": [
+        "~/.codex/skills/resolving-merge-conflicts"
+      ],
+      "files": 2,
+      "bytes": 1031,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "robotics-tech-writer",
+      "name": "robotics-tech-writer",
+      "sources": [
+        "~/.codex/skills/robotics-tech-writer",
+        "~/.agents/skills/robotics-tech-writer"
+      ],
+      "files": 14,
+      "bytes": 33316,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "scaffold-exercises",
+      "name": "scaffold-exercises",
+      "sources": [
+        "~/.codex/skills/scaffold-exercises"
+      ],
+      "files": 2,
+      "bytes": 3697,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "scene-distillation-zine-v1-3",
+      "name": "scene-distillation-zine-v1-3",
+      "sources": [
+        "~/.codex/skills/scene-distillation-zine-v1-3",
+        "~/.agents/skills/scene-distillation-zine-v1-3"
+      ],
+      "files": 2,
+      "bytes": 30442,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "scenes-gathered-zine-v1-3",
+      "name": "scenes-gathered-zine-v1-3",
+      "sources": [
+        "~/.codex/skills/scenes-gathered-zine-v1-3",
+        "~/.agents/skills/scenes-gathered-zine-v1-3"
+      ],
+      "files": 2,
+      "bytes": 38886,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "self-improving-for-codex",
+      "name": "self-improving-for-codex",
+      "sources": [
+        "~/.codex/skills/self-improving-for-codex",
+        "~/.agents/skills/self-improving-for-codex"
+      ],
+      "files": 10,
+      "bytes": 54853,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "setup-matt-pocock-skills",
+      "name": "setup-matt-pocock-skills",
+      "sources": [
+        "~/.codex/skills/setup-matt-pocock-skills"
+      ],
+      "files": 7,
+      "bytes": 19421,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "setup-pre-commit",
+      "name": "setup-pre-commit",
+      "sources": [
+        "~/.codex/skills/setup-pre-commit"
+      ],
+      "files": 2,
+      "bytes": 2357,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "smart-charts",
+      "name": "smart-charts",
+      "sources": [
+        "~/.codex/skills/smart-charts",
+        "~/.agents/skills/smart-charts"
+      ],
+      "files": 15,
+      "bytes": 1195212,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "taste-skill",
+      "name": "design-taste-frontend",
+      "sources": [
+        "~/.codex/skills/taste-skill",
+        "~/.agents/skills/taste-skill"
+      ],
+      "files": 1,
+      "bytes": 87253,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "tdd",
+      "name": "tdd",
+      "sources": [
+        "~/.codex/skills/tdd"
+      ],
+      "files": 4,
+      "bytes": 7331,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "teach",
+      "name": "teach",
+      "sources": [
+        "~/.codex/skills/teach"
+      ],
+      "files": 6,
+      "bytes": 17978,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "to-questionnaire",
+      "name": "to-questionnaire",
+      "sources": [
+        "~/.codex/skills/to-questionnaire"
+      ],
+      "files": 2,
+      "bytes": 3070,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "to-spec",
+      "name": "to-spec",
+      "sources": [
+        "~/.codex/skills/to-spec"
+      ],
+      "files": 2,
+      "bytes": 3178,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "to-tickets",
+      "name": "to-tickets",
+      "sources": [
+        "~/.codex/skills/to-tickets"
+      ],
+      "files": 2,
+      "bytes": 5817,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "triage",
+      "name": "triage",
+      "sources": [
+        "~/.codex/skills/triage"
+      ],
+      "files": 4,
+      "bytes": 19301,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "video-use",
+      "name": "video-use",
+      "sources": [
+        "~/.codex/skills/video-use",
+        "~/.agents/skills/video-use"
+      ],
+      "files": 35,
+      "bytes": 765386,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "wait-what",
+      "name": "wait-what",
+      "sources": [
+        "~/.codex/skills/wait-what"
+      ],
+      "files": 2,
+      "bytes": 552,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "wayfinder",
+      "name": "wayfinder",
+      "sources": [
+        "~/.codex/skills/wayfinder"
+      ],
+      "files": 2,
+      "bytes": 12052,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "website-rebuild",
+      "name": "website-rebuild",
+      "sources": [
+        "~/.codex/skills/website-rebuild",
+        "~/.agents/skills/website-rebuild"
+      ],
+      "files": 130,
+      "bytes": 2035916,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "windows-mcp-tool-tester",
+      "name": "windows-mcp-tool-tester",
+      "sources": [
+        "~/.agents/skills/windows-mcp-tool-tester"
+      ],
+      "files": 1,
+      "bytes": 28925,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "wizard",
+      "name": "wizard",
+      "sources": [
+        "~/.codex/skills/wizard"
+      ],
+      "files": 3,
+      "bytes": 12786,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "write",
+      "name": "write",
+      "sources": [
+        "~/.codex/skills/write",
+        "~/.agents/skills/write"
+      ],
+      "files": 2,
+      "bytes": 2578,
+      "license_frontmatter": null
+    },
+    {
+      "directory": "writing-for-agents",
+      "name": "writing-for-agents",
+      "sources": [
+        "~/.codex/skills/writing-for-agents"
+      ],
+      "files": 3,
+      "bytes": 13617,
+      "license_frontmatter": null
+    }
+  ],
+  "conflicts": [
+    "codex-with-chatgpt/SKILL.md",
+    "motion-web/.gitignore",
+    "motion-web/cases/AUTHORING.md",
+    "motion-web/cases/char-curtain/index.html",
+    "motion-web/cases/char-curtain/README.md",
+    "motion-web/cases/index.html",
+    "motion-web/cases/ink-crowd/index.html",
+    "motion-web/cases/ink-crowd/README.md",
+    "motion-web/cases/lyre-crows/index.html",
+    "motion-web/cases/lyre-crows/README.md",
+    "motion-web/cases/press-stack/index.html",
+    "motion-web/cases/press-stack/README.md",
+    "motion-web/cases/string-clock/index.html",
+    "motion-web/cases/string-clock/README.md",
+    "motion-web/cases/toy-flipbook/index.html",
+    "motion-web/cases/toy-flipbook/README.md",
+    "motion-web/cases/wheel-rail/index.html",
+    "motion-web/cases/wheel-rail/README.md",
+    "motion-web/data/visual-bank.json",
+    "motion-web/LICENSE",
+    "motion-web/README.md",
+    "motion-web/references/affordance.md",
+    "motion-web/references/baseline-ui.md",
+    "motion-web/references/build-mode.md",
+    "motion-web/references/choreography-arc.md",
+    "motion-web/references/components.md",
+    "motion-web/references/composition-guide.md",
+    "motion-web/references/design-slop.md",
+    "motion-web/references/handfeel.md",
+    "motion-web/references/image-asset-pipeline.md",
+    "motion-web/references/image-plane-3d.md",
+    "motion-web/references/light-3d.md",
+    "motion-web/references/motion-spec.md",
+    "motion-web/references/motion-tokens.md",
+    "motion-web/references/page-blueprints.md",
+    "motion-web/references/page-design.md",
+    "motion-web/references/pattern-recipes.md",
+    "motion-web/references/production-polish.md",
+    "motion-web/references/project-setup.md",
+    "motion-web/references/render-layer.md",
+    "motion-web/references/scene-audio.md",
+    "motion-web/references/scene-streaming.md",
+    "motion-web/references/shaders-spec.md",
+    "motion-web/references/tactile-texture.md",
+    "motion-web/references/timeline-orchestration.md",
+    "motion-web/references/verification-harness.md",
+    "motion-web/scripts/measure_churn.py",
+    "motion-web/scripts/measure_frames.py",
+    "motion-web/scripts/measure_structure.py",
+    "motion-web/scripts/record_showcases.py",
+    "motion-web/scripts/subset_fonts.py",
+    "motion-web/scripts/verify_case.py",
+    "motion-web/SKILL.md",
+    "robotics-tech-writer/SKILL.md",
+    "video-use/SKILL.md",
+    "website-rebuild/assets/templates/engine-notes.md",
+    "website-rebuild/assets/templates/rebuild-plan.md",
+    "website-rebuild/references/animation-recovery.md",
+    "website-rebuild/references/archival-rescue.md",
+    "website-rebuild/references/asset-management.md",
+    "website-rebuild/references/beyond-the-rebuild.md",
+    "website-rebuild/references/binary-formats.md",
+    "website-rebuild/references/case-studies/animation-recovery.md",
+    "website-rebuild/references/case-studies/archival-rescue.md",
+    "website-rebuild/references/case-studies/asset-management.md",
+    "website-rebuild/references/case-studies/beyond-the-rebuild.md",
+    "website-rebuild/references/case-studies/binary-formats.md",
+    "website-rebuild/references/case-studies/determinism.md",
+    "website-rebuild/references/case-studies/dom-shell-strategies.md",
+    "website-rebuild/references/case-studies/environment-traps.md",
+    "website-rebuild/references/case-studies/gate-case-design.md",
+    "website-rebuild/references/case-studies/gate-failure-modes.md",
+    "website-rebuild/references/case-studies/legal-and-deploy.md",
+    "website-rebuild/references/case-studies/mirroring.md",
+    "website-rebuild/references/case-studies/payload-gates.md",
+    "website-rebuild/references/case-studies/porting-discipline.md",
+    "website-rebuild/references/case-studies/readable-source.md",
+    "website-rebuild/references/case-studies/recon-and-rating.md",
+    "website-rebuild/references/case-studies/reverse-engineering.md",
+    "website-rebuild/references/case-studies/rsc-reconstruction.md",
+    "website-rebuild/references/case-studies/sanity-platform.md",
+    "website-rebuild/references/case-studies/scope-and-fingerprint.md",
+    "website-rebuild/references/case-studies/scripts.md",
+    "website-rebuild/references/case-studies/shopify-platform.md",
+    "website-rebuild/references/case-studies/skill.md",
+    "website-rebuild/references/case-studies/verification-gates.md",
+    "website-rebuild/references/case-studies/webgl-scenes.md",
+    "website-rebuild/references/determinism.md",
+    "website-rebuild/references/dom-shell-strategies.md",
+    "website-rebuild/references/environment-traps.md",
+    "website-rebuild/references/gate-case-design.md",
+    "website-rebuild/references/gate-failure-modes.md",
+    "website-rebuild/references/legal-and-deploy.md",
+    "website-rebuild/references/mirroring.md",
+    "website-rebuild/references/payload-gates.md",
+    "website-rebuild/references/porting-discipline.md",
+    "website-rebuild/references/readable-source.md",
+    "website-rebuild/references/recon-and-rating.md",
+    "website-rebuild/references/reverse-engineering.md",
+    "website-rebuild/references/rsc-reconstruction.md",
+    "website-rebuild/references/sanity-platform.md",
+    "website-rebuild/references/scope-and-fingerprint.md",
+    "website-rebuild/references/shopify-platform.md",
+    "website-rebuild/references/verification-gates.md",
+    "website-rebuild/references/webgl-scenes.md",
+    "website-rebuild/scripts/beautify-bundle.mjs",
+    "website-rebuild/scripts/build-site.mjs",
+    "website-rebuild/scripts/census-bundles.mjs",
+    "website-rebuild/scripts/closure.mjs",
+    "website-rebuild/scripts/cold-audit-decls.mjs",
+    "website-rebuild/scripts/cold-audit-modules.mjs",
+    "website-rebuild/scripts/crossside.config.example.mjs",
+    "website-rebuild/scripts/dump-timelines.mjs",
+    "website-rebuild/scripts/emit-webpack-chunk.mjs",
+    "website-rebuild/scripts/extract-source.mjs",
+    "website-rebuild/scripts/fingerprint.mjs",
+    "website-rebuild/scripts/flight-decode.mjs",
+    "website-rebuild/scripts/frame-census.mjs",
+    "website-rebuild/scripts/gapfill-video.mjs",
+    "website-rebuild/scripts/harvest-cases.mjs",
+    "website-rebuild/scripts/harvest.config.example.mjs",
+    "website-rebuild/scripts/lib/cdp.mjs",
+    "website-rebuild/scripts/lib/chrome.mjs",
+    "website-rebuild/scripts/lib/cli.mjs",
+    "website-rebuild/scripts/lib/extract-refs.mjs",
+    "website-rebuild/scripts/lib/flight.mjs",
+    "website-rebuild/scripts/lib/hash.mjs",
+    "website-rebuild/scripts/lib/ledger.mjs",
+    "website-rebuild/scripts/lib/negotiate.mjs",
+    "website-rebuild/scripts/lib/png.mjs",
+    "website-rebuild/scripts/lib/ports.mjs",
+    "website-rebuild/scripts/lib/shell-build.mjs",
+    "website-rebuild/scripts/lib/tokens.mjs",
+    "website-rebuild/scripts/lib/urlpath.mjs",
+    "website-rebuild/scripts/lib/version.mjs",
+    "website-rebuild/scripts/mirror-site.mjs",
+    "website-rebuild/scripts/module-map.mjs",
+    "website-rebuild/scripts/netcapture.mjs",
+    "website-rebuild/scripts/pixel-walk.mjs",
+    "website-rebuild/scripts/pixelcompare.mjs",
+    "website-rebuild/scripts/probe-shim.js",
+    "website-rebuild/scripts/probe.mjs",
+    "website-rebuild/scripts/README.md",
+    "website-rebuild/scripts/reconcile-gaps.mjs",
+    "website-rebuild/scripts/serve.mjs",
+    "website-rebuild/scripts/shell-config.example.mjs",
+    "website-rebuild/scripts/side-by-side.mjs",
+    "website-rebuild/scripts/slice-esm.mjs",
+    "website-rebuild/scripts/slice-modules.mjs",
+    "website-rebuild/scripts/slices.config.example.mjs",
+    "website-rebuild/scripts/sweep-routes.mjs",
+    "website-rebuild/scripts/verify-crossside.mjs",
+    "website-rebuild/scripts/verify-flight.mjs",
+    "website-rebuild/scripts/verify-fresh.mjs",
+    "website-rebuild/scripts/verify-harvest.mjs",
+    "website-rebuild/scripts/verify-lenprefix.mjs",
+    "website-rebuild/scripts/verify-mirror.mjs",
+    "website-rebuild/scripts/verify-module-map.mjs",
+    "website-rebuild/scripts/verify-nextdata.mjs",
+    "website-rebuild/scripts/verify-offline.mjs",
+    "website-rebuild/scripts/verify-payload.mjs",
+    "website-rebuild/scripts/verify-reassembly.mjs",
+    "website-rebuild/scripts/verify-refs-served.mjs",
+    "website-rebuild/scripts/verify-routes.mjs",
+    "website-rebuild/scripts/verify-shell.mjs",
+    "website-rebuild/scripts/verify-ssr.mjs",
+    "website-rebuild/scripts/verify-standalone.mjs",
+    "website-rebuild/scripts/verify-symbols.mjs",
+    "website-rebuild/scripts/verify-tokens.mjs",
+    "website-rebuild/scripts/verify-tween.mjs",
+    "website-rebuild/scripts/verify-zerodep.mjs",
+    "website-rebuild/scripts/wayback-mirror.mjs",
+    "website-rebuild/SKILL.md",
+    "website-rebuild/tools/accept-names.mjs",
+    "website-rebuild/tools/assemble-static.mjs",
+    "website-rebuild/tools/flight-to-mdx.mjs",
+    "website-rebuild/tools/group-parts.mjs",
+    "website-rebuild/tools/harvest-optimized-images.mjs",
+    "website-rebuild/tools/make-standalone.mjs",
+    "website-rebuild/tools/modules-to-src.mjs",
+    "website-rebuild/tools/name-modules.mjs",
+    "website-rebuild/tools/package.json",
+    "website-rebuild/tools/README.md",
+    "website-rebuild/tools/sourcify-chunk.mjs",
+    "website-rebuild/tools/verify-fresh-next.mjs",
+    "write/SKILL.md"
+  ],
+  "mcp": [
+    {
+      "name": "fastctx",
+      "transport": "stdio",
+      "configured_binary_version": "0.1.1",
+      "restore_npm_version": "0.2.6",
+      "env": {
+        "FASTCTX_TOKEN_BUDGET": "8500",
+        "FASTCTX_GLOB_TOKEN_BUDGET": "4300"
+      }
+    },
+    {
+      "name": "cloudflare-api",
+      "transport": "http",
+      "url": "https://mcp.cloudflare.com/mcp",
+      "authentication": "new-machine OAuth login"
+    },
+    {
+      "name": "node_repl",
+      "restore": "regenerated by desktop computer-use plugin",
+      "copy_config": false
+    }
+  ],
+  "plugins": [
+    {
+      "id": "documents@openai-primary-runtime",
+      "enabled": true,
+      "restore": "Codex desktop plugin library"
+    },
+    {
+      "id": "spreadsheets@openai-primary-runtime",
+      "enabled": true,
+      "restore": "Codex desktop plugin library"
+    },
+    {
+      "id": "presentations@openai-primary-runtime",
+      "enabled": true,
+      "restore": "Codex desktop plugin library"
+    },
+    {
+      "id": "pdf@openai-primary-runtime",
+      "enabled": true,
+      "restore": "Codex desktop plugin library"
+    },
+    {
+      "id": "template-creator@openai-primary-runtime",
+      "enabled": true,
+      "restore": "Codex desktop plugin library"
+    },
+    {
+      "id": "visualize@openai-bundled",
+      "enabled": true,
+      "restore": "Codex desktop plugin library"
+    },
+    {
+      "id": "ponytail@ponytail",
+      "enabled": true,
+      "restore": "marketplace"
+    },
+    {
+      "id": "codex-app-tools@openai-bundled",
+      "enabled": true,
+      "restore": "Codex desktop plugin library"
+    },
+    {
+      "id": "i-have-adhd@i-have-adhd",
+      "enabled": true,
+      "restore": "marketplace"
+    },
+    {
+      "id": "browser@openai-bundled",
+      "enabled": true,
+      "restore": "Codex desktop plugin library"
+    },
+    {
+      "id": "unified-computer-use@openai-bundled",
+      "enabled": true,
+      "restore": "Codex desktop plugin library"
+    },
+    {
+      "id": "chrome@openai-bundled",
+      "enabled": true,
+      "restore": "Codex desktop plugin library"
+    },
+    {
+      "id": "computer-use@openai-bundled",
+      "enabled": true,
+      "restore": "Codex desktop plugin library"
+    }
+  ],
+  "marketplaces": {
+    "ponytail": {
+      "last_updated": "2026-08-18T03:23:09Z",
+      "last_revision": "2ed6c52c9d7e5e56942508591085fd45dea277d3",
+      "source_type": "git",
+      "source": "https://github.com/DietrichGebert/ponytail.git"
+    },
+    "i-have-adhd": {
+      "last_updated": "2026-09-10T09:26:26Z",
+      "source_type": "git",
+      "source": "https://github.com/ayghri/i-have-adhd.git",
+      "ref": "main"
+    }
+  },
+  "npm_packages": {
+    "fastctx": {
+      "version": "0.2.6",
+      "license": "Apache-2.0",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yc-duan/fastctx.git"
+      }
+    },
+    "context-mode": {
+      "version": "1.0.169",
+      "license": "Elastic-2.0",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/mksglu/context-mode"
+      }
+    },
+    "@openai/codex": {
+      "version": "0.133.0",
+      "license": "Apache-2.0",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/openai/codex.git",
+        "directory": "codex-cli"
+      }
+    },
+    "@anthropic-ai/claude-code": {
+      "version": "2.1.150",
+      "license": "SEE LICENSE IN README.md",
+      "repository": null
+    },
+    "@google/gemini-cli": {
+      "version": "0.6.1",
+      "license": null,
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/google-gemini/gemini-cli.git"
+      }
+    },
+    "@waishnav/devspace": {
+      "version": "1.0.8",
+      "license": "MIT",
+      "repository": null
+    }
+  },
+  "excluded": [
+    ".env actual values",
+    "auth.json",
+    "credentials",
+    "cookies",
+    "chat history",
+    "personal project memories",
+    "desktop runtime binaries",
+    ".system skills",
+    ".archive skills",
+    "node_modules",
+    "virtualenvs"
+  ]
+}

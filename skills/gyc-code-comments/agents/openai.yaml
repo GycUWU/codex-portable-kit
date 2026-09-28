@@ -1,0 +1,7 @@
+interface:
+  display_name: "GYC Code Comment Quality"
+  short_description: "Write clear C/C++ engineering comments and gyc change markers"
+  default_prompt: "Use $gyc-code-comments to review or modify code comments. Explain intent and engineering constraints, avoid restating obvious code, and follow the gyc author/date rules for meaningful changes to existing code."
+
+policy:
+  allow_implicit_invocation: true

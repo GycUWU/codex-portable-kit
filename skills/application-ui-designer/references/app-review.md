@@ -1,0 +1,16 @@
+# Application UI Review
+- Is the main task obvious within a few seconds?
+- Is there one coherent visual idea?
+- Is navigation predictable?
+- Is the primary action clear without overwhelming the page?
+- Are cards used only where appropriate?
+- Is typography intentional and consistent?
+- Is the palette restrained and product-specific?
+- Are empty/loading/error/disabled states designed?
+- Are spacing and radii systematic?
+- Is iconography coherent?
+- Does responsive behavior change composition intelligently?
+- Are frequent workflows fast?
+- Does motion preserve context rather than decorate?
+- Does the UI avoid generic AI/SaaS clichés?
+- Does the product feel like one system rather than a component collection?

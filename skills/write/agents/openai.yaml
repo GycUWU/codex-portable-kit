@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Router"
+  short_description: "将中文写作请求分流到机器人技术或日常写作 Skill"
+  default_prompt: "Use $write to classify this Chinese writing task, then delegate it to the right specialized writer."

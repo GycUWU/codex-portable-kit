@@ -1,0 +1,7 @@
+interface:
+  display_name: "Robotics Tech Writer"
+  short_description: "Grounded Chinese engineering documentation from code and technical sources"
+  default_prompt: "Inspect the relevant implementation first, then write a source-grounded Chinese technical document with natural engineering prose."
+
+policy:
+  allow_implicit_invocation: true

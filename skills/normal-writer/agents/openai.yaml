@@ -1,0 +1,4 @@
+interface:
+  display_name: "Normal Writer"
+  short_description: "日常中文文档与长文写作，先大纲后正文"
+  default_prompt: "Use $normal-writer for ordinary Chinese writing; propose an outline first for substantial documents."
