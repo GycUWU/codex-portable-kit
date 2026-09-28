@@ -13,6 +13,8 @@
 
 安装前先检查目标电脑的权限。写入用户目录、安装依赖、访问 npm/PyPI/GitHub 被当前 Codex 环境限制时，申请对应权限；不要把权限失败当成安装完成。
 
+本次 Windows Codex 环境的 Git 默认 schannel 后端出现 `SEC_E_NO_CREDENTIALS`。公共仓库可用 `git -c http.sslBackend=openssl clone https://github.com/GycUWU/codex-portable-kit.git` 下载；这个参数只对该次 Git 命令生效。
+
 ## 保留与备份
 
 安装目录为 `~/.agents/skills`。覆盖已有不同文件前，在 `~/.codex/migration-backups/<时间>/` 保存旧文件；不删除已有的额外文件。`--home <绝对目录>` 可用于隔离测试。

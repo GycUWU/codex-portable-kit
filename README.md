@@ -11,7 +11,7 @@
 Windows 快速安装（先安装 Python 3.12、Node.js、Git 和 Codex 桌面应用）：
 
 ```powershell
-git clone https://github.com/GycUWU/codex-portable-kit.git
+git -c http.sslBackend=openssl clone https://github.com/GycUWU/codex-portable-kit.git
 cd codex-portable-kit
 python scripts/verify.py
 python scripts/install.py --mcp --plugins --preferences --video --runtimes
